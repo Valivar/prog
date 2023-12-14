@@ -6,4 +6,4 @@ afas
 
 bye
 
-hi
+hi bye
